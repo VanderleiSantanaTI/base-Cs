@@ -1,0 +1,8 @@
+C:\Users\Vanderlei\source\repos\AmbienteM01\M01A05a\bin\Debug\M01A05a.exe.config
+C:\Users\Vanderlei\source\repos\AmbienteM01\M01A05a\bin\Debug\M01A05a.exe
+C:\Users\Vanderlei\source\repos\AmbienteM01\M01A05a\bin\Debug\M01A05a.pdb
+C:\Users\Vanderlei\source\repos\AmbienteM01\M01A05a\obj\Debug\M01A05a.csproj.AssemblyReference.cache
+C:\Users\Vanderlei\source\repos\AmbienteM01\M01A05a\obj\Debug\M01A05a.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanderlei\source\repos\AmbienteM01\M01A05a\obj\Debug\M01A05a.csproj.CoreCompileInputs.cache
+C:\Users\Vanderlei\source\repos\AmbienteM01\M01A05a\obj\Debug\M01A05a.exe
+C:\Users\Vanderlei\source\repos\AmbienteM01\M01A05a\obj\Debug\M01A05a.pdb
