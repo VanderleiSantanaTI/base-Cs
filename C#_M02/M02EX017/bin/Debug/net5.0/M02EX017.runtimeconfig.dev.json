@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Vanderlei\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vanderlei\\.nuget\\packages"
+    ]
+  }
+}

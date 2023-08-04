@@ -1,0 +1,16 @@
+C:\Users\Vanderlei\source\repos\AmbienteM02\M02EX014\bin\Debug\net5.0\M02EX014.exe
+C:\Users\Vanderlei\source\repos\AmbienteM02\M02EX014\bin\Debug\net5.0\M02EX014.deps.json
+C:\Users\Vanderlei\source\repos\AmbienteM02\M02EX014\bin\Debug\net5.0\M02EX014.runtimeconfig.json
+C:\Users\Vanderlei\source\repos\AmbienteM02\M02EX014\bin\Debug\net5.0\M02EX014.runtimeconfig.dev.json
+C:\Users\Vanderlei\source\repos\AmbienteM02\M02EX014\bin\Debug\net5.0\M02EX014.dll
+C:\Users\Vanderlei\source\repos\AmbienteM02\M02EX014\bin\Debug\net5.0\M02EX014.pdb
+C:\Users\Vanderlei\source\repos\AmbienteM02\M02EX014\obj\Debug\net5.0\M02EX014.csproj.AssemblyReference.cache
+C:\Users\Vanderlei\source\repos\AmbienteM02\M02EX014\obj\Debug\net5.0\M02EX014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderlei\source\repos\AmbienteM02\M02EX014\obj\Debug\net5.0\M02EX014.AssemblyInfoInputs.cache
+C:\Users\Vanderlei\source\repos\AmbienteM02\M02EX014\obj\Debug\net5.0\M02EX014.AssemblyInfo.cs
+C:\Users\Vanderlei\source\repos\AmbienteM02\M02EX014\obj\Debug\net5.0\M02EX014.csproj.CoreCompileInputs.cache
+C:\Users\Vanderlei\source\repos\AmbienteM02\M02EX014\obj\Debug\net5.0\M02EX014.dll
+C:\Users\Vanderlei\source\repos\AmbienteM02\M02EX014\obj\Debug\net5.0\refint\M02EX014.dll
+C:\Users\Vanderlei\source\repos\AmbienteM02\M02EX014\obj\Debug\net5.0\M02EX014.pdb
+C:\Users\Vanderlei\source\repos\AmbienteM02\M02EX014\obj\Debug\net5.0\M02EX014.genruntimeconfig.cache
+C:\Users\Vanderlei\source\repos\AmbienteM02\M02EX014\obj\Debug\net5.0\ref\M02EX014.dll

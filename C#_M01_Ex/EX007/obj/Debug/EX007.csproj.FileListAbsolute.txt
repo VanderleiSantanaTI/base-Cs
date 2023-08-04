@@ -1,0 +1,8 @@
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX007\bin\Debug\EX007.exe.config
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX007\bin\Debug\EX007.exe
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX007\bin\Debug\EX007.pdb
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX007\obj\Debug\EX007.csproj.AssemblyReference.cache
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX007\obj\Debug\EX007.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX007\obj\Debug\EX007.csproj.CoreCompileInputs.cache
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX007\obj\Debug\EX007.exe
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX007\obj\Debug\EX007.pdb

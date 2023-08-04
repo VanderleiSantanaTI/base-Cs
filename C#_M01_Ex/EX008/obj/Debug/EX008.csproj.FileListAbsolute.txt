@@ -1,0 +1,16 @@
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX008\bin\Debug\EX008.exe.config
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX008\bin\Debug\EX008.exe
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX008\bin\Debug\EX008.pdb
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX008\obj\Debug\EX008.csproj.AssemblyReference.cache
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX008\obj\Debug\EX008.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX008\obj\Debug\MainWindow.g.cs
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX008\obj\Debug\App.g.cs
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX008\obj\Debug\EX008_MarkupCompile.cache
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX008\obj\Debug\EX008_MarkupCompile.lref
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX008\obj\Debug\MainWindow.baml
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX008\obj\Debug\EX008.g.resources
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX008\obj\Debug\EX008.Properties.Resources.resources
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX008\obj\Debug\EX008.csproj.GenerateResource.cache
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX008\obj\Debug\EX008.csproj.CoreCompileInputs.cache
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX008\obj\Debug\EX008.exe
+C:\Users\Vanderlei\source\repos\AmbienteM01_Ex\EX008\obj\Debug\EX008.pdb
